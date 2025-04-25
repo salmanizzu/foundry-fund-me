@@ -13,3 +13,11 @@ docs/
 
 # Dotenv file
 .env
+
+.keystore
+
+# zksync
+
+zkout/
+
+.DS_Store
